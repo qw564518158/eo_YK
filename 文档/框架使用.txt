@@ -1,0 +1,8 @@
+Spring Boot 2
+
+Controller : Spring MVC 
+Service : Spring
+DAO : Spring DATA JPA
+数据库 : Mysql + Redis 
+前端 : VUE HTML5
+
